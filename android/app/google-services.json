@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "250728969979",
-    "project_id": "grofresh-3986f",
-    "storage_bucket": "grofresh-3986f.appspot.com"
+    "project_number": "180548560883",
+    "project_id": "hinthar-inc",
+    "storage_bucket": "hinthar-inc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:250728969979:android:375fde0efc7db10a75a25e",
+        "mobilesdk_app_id": "1:180548560883:android:75925414dd9cad58a9d486",
         "android_client_info": {
-          "package_name": "com.u6amtech.flutter_grocery"
+          "package_name": "com.hintharinc.emart"
         }
       },
       "oauth_client": [
         {
-          "client_id": "250728969979-9nqsmhb458assn7q1a68cgasgg5q5mtg.apps.googleusercontent.com",
+          "client_id": "180548560883-7fjmgd2fvaa77gn2ao1bg7dc7fmoh5ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hintharinc.emart",
+            "certificate_hash": "26db99c0e5935f9d27eaf47d55c025c938b558be"
+          }
+        },
+        {
+          "client_id": "180548560883-mlvblca760qflf5l686oo67mp1dj6c0v.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDTFm7oPur3xhZbVmCkgFkGFcR-44h6Gyo"
+          "current_key": "AIzaSyBKKNk5JXdOioGM0flum2xKb2Spr3qS8nM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "250728969979-9nqsmhb458assn7q1a68cgasgg5q5mtg.apps.googleusercontent.com",
+              "client_id": "180548560883-mlvblca760qflf5l686oo67mp1dj6c0v.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
